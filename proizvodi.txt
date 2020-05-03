@@ -1,0 +1,4 @@
+Ime:Med 	 Cijena:20.000000 kn 
+Ime:Grah 	 Cijena:30.000000 kn 
+Ime:Sok 	 Cijena:10.000000 kn 
+Ime:Program 	 Cijena:299.000000 kn 
